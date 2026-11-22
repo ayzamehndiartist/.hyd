@@ -1,0 +1,24 @@
+@media(min-width:768px){
+:root{--pad:32px}
+section{padding:88px 0}
+.burger{display:none}
+.nav{display:flex;position:static;align-items:center;gap:28px;padding:0;background:none;border:0}
+.nav a{padding:0;border:0;font-size:.95rem}
+.nav a.btn{display:inline-flex;margin:0 0 0 8px;min-height:44px;padding:0 22px;border:1px solid var(--brown)}
+.hero{padding:56px 0 88px}
+.hero .wrap{grid-template-columns:1.1fr .9fr;align-items:center;gap:64px}
+.hero .arch{order:2;margin:0 0 0 auto}
+.btns .btn{flex:0 0 auto}
+.feat{grid-template-columns:repeat(3,1fr);gap:12px}
+.grid{columns:3;column-gap:12px}
+.grid button{margin-bottom:12px}
+.filters{margin:0 0 24px;padding:2px 0}
+.svc{grid-template-columns:1fr 1fr;gap:56px;align-items:center;padding:40px 0}
+.svc:nth-child(even) img{order:2}
+.why{columns:2;column-gap:56px}
+.why li{break-inside:avoid}
+.info>div{grid-template-columns:220px 1fr;gap:24px}
+.foot{flex-direction:row;justify-content:space-between}
+.lb img{max-height:calc(100dvh - 190px)}
+}
+@media(min-width:1024px){.grid{columns:4}}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "bridal",
+    "name": "Bridal Mehndi",
+    "description": "Detailed designs for the bride, planned around your wedding day.",
+    "price": "Contact for pricing",
+    "image": "assets/images/bridal/bridal-1.jpg",
+    "alt": "Bridal mehndi design on hands"
+  },
+  {
+    "id": "engagement",
+    "name": "Engagement Mehndi",
+    "description": "Elegant designs for engagement celebrations, simple or detailed.",
+    "price": "Contact for pricing",
+    "image": "assets/images/engagement/engagement-1.jpeg",
+    "alt": "Engagement mehndi design on hands"
+  },
+  {
+    "id": "arabic",
+    "name": "Arabic Mehndi",
+    "description": "Flowing floral patterns with open space between the designs.",
+    "price": "Contact for pricing",
+    "image": "assets/images/arabic/arabic-1.jpg",
+    "alt": "Arabic floral mehndi design on a hand"
+  },
+  {
+    "id": "traditional",
+    "name": "Traditional Mehndi",
+    "description": "Classic motifs with fine detailing.",
+    "price": "Contact for pricing",
+    "image": "assets/images/traditional/traditional-2.jpg",
+    "alt": "Traditional mehndi design on hands"
+  },
+  {
+    "id": "party",
+    "name": "Party Mehndi",
+    "description": "Designs for get-togethers, festivals and celebrations.",
+    "price": "Contact for pricing",
+    "image": "assets/images/party/party-1.jpg",
+    "alt": "Party mehndi design on hands"
+  },
+  {
+    "id": "event",
+    "name": "Event Mehndi",
+    "description": "Mehndi for events. Get in touch with the date and details.",
+    "price": "Contact for pricing",
+    "image": "assets/images/party/party-2.jpg",
+    "alt": "Party mehndi design on hands"
+  }
+]

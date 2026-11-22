@@ -1,0 +1,92 @@
+[
+  {
+    "src": "assets/images/bridal/bridal-1.jpg",
+    "alt": "Bridal mehndi design on hands",
+    "category": "Bridal",
+    "w": 900,
+    "h": 1600,
+    "featured": true
+  },
+  {
+    "src": "assets/images/bridal/bridal-2.jpg",
+    "alt": "Bridal mehndi design on hands",
+    "category": "Bridal",
+    "w": 720,
+    "h": 1600
+  },
+  {
+    "src": "assets/images/bridal/bridal-3.jpg",
+    "alt": "Bridal mehndi design on hands",
+    "category": "Bridal",
+    "w": 902,
+    "h": 1599,
+    "featured": true
+  },
+  {
+    "src": "assets/images/arabic/arabic-1.jpg",
+    "alt": "Arabic floral mehndi design on a hand",
+    "category": "Arabic",
+    "w": 906,
+    "h": 1599,
+    "featured": true
+  },
+  {
+    "src": "assets/images/traditional/traditional-1.jpg",
+    "alt": "Traditional mehndi design on hands",
+    "category": "Traditional",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "src": "assets/images/traditional/traditional-2.jpg",
+    "alt": "Traditional mehndi design on hands",
+    "category": "Traditional",
+    "w": 1200,
+    "h": 1600,
+    "featured": true
+  },
+  {
+    "src": "assets/images/traditional/traditional-3.jpg",
+    "alt": "Traditional mehndi design on hands",
+    "category": "Traditional",
+    "w": 899,
+    "h": 1599
+  },
+  {
+    "src": "assets/images/engagement/engagement-1.jpeg",
+    "alt": "Engagement mehndi design on hands",
+    "category": "Engagement",
+    "w": 1200,
+    "h": 1600,
+    "featured": true
+  },
+  {
+    "src": "assets/images/engagement/engagement-2.jpg",
+    "alt": "Engagement mehndi design on hands",
+    "category": "Engagement",
+    "w": 902,
+    "h": 1600
+  },
+  {
+    "src": "assets/images/party/party-1.jpg",
+    "alt": "Party mehndi design on hands",
+    "category": "Party",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "src": "assets/images/party/party-2.jpg",
+    "alt": "Party mehndi design on hands",
+    "category": "Party",
+    "w": 1200,
+    "h": 1600
+  },
+  {
+    "src": "assets/images/party/party-3.jpg",
+    "alt": "Party mehndi design on hands",
+    "category": "Party",
+    "w": 900,
+    "h": 1601,
+    "featured": true
+  }
+]
